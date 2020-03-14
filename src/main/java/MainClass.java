@@ -20,6 +20,14 @@ public class MainClass {
             System.out.println("THREW EXCEPTION UNKNOWN HOST");
         }
 
+        DB database = mongoClient.getDB("javaDB");
+        DBCollection collection = database.getCollection("employees");
+
+        DBCursor results = collection.find();
+        for( DBObject result : results){
+            System.out.println(result.get("name"));
+        }
+
         mongoClient.close();
     }
 }
