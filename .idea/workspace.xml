@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccb00eca-3c25-4091-9041-11394bbfe612" name="Default Changelist" comment="" />
+    <list default="true" id="ccb00eca-3c25-4091-9041-11394bbfe612" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Z7UGROgyiuqXN1vWm5l31S5Yki" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,7 +47,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -115,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584189529111</updated>
       <workItem from="1584189533810" duration="2042000" />
-      <workItem from="1584191944216" duration="3318000" />
+      <workItem from="1584191944216" duration="3987000" />
     </task>
     <servers />
   </component>
@@ -159,10 +165,10 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state width="1552" height="267" key="GridCell.Tab.1.right/0.27.1600.873@0.27.1600.873" timestamp="1584193123338" />
-    <state x="296" y="98" width="1007" height="737" key="SettingsEditor" timestamp="1584191618788">
+    <state x="296" y="98" width="1007" height="737" key="SettingsEditor" timestamp="1584196682245">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="296" y="98" width="1007" height="737" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1584191618788" />
+    <state x="296" y="98" width="1007" height="737" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1584196682245" />
     <state x="466" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1584191945122">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
