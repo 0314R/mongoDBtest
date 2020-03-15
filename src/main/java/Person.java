@@ -1,10 +1,14 @@
 import com.mongodb.DBObject;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class Person {
 
     private String id;
     private String name;
     private Address address;
+    private List<Integer> books;
 
     public Person() {
         id = "jojo";
@@ -16,6 +20,7 @@ public class Person {
         this.id = id;
         this.name = name;
         this.address = address;
+        this.books = Arrays.asList(27464, 747854);
     }
 
     public String getId() {
@@ -40,5 +45,13 @@ public class Person {
 
     public void setAddress(Address address) {
         this.address = address;
+    }
+
+    public List<Integer> getBooks() {
+        return books;
+    }
+
+    public void setBooks(List<Integer> books) {
+        this.books = books;
     }
 }
